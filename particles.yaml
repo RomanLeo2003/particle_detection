@@ -1,0 +1,2 @@
+{names: [particle], nc: 1, test: 'C:\Users\user\PycharmProjects\particle_detection\labels\test',
+  train: 'C:\Users\user\PycharmProjects\particle_detection\labels\train', val: 'C:\Users\user\PycharmProjects\particle_detection\labels\val'}
